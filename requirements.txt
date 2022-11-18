@@ -5,3 +5,12 @@ pandas
 torch
 torchvision==0.13.1
 tqdm==4.64.0
+pickle5
+sqlalchemy
+colorama
+pygame
+python-math
+scikit-learn
+#sys
+#os
+#random
